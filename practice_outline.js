@@ -48,13 +48,10 @@ PHASE I:  - 2 Weeks
 15. AJAX
 16. JSON
 17. JQuery
-
-//   Practice Projects --- 3
-
 18. JS Graphics
 19. Error handling
 20. Generator, advanced iterations
-//   Practice Project ---1 
+//   Practice Project ---3
 21. Modules
 22. Code Quality 
 
