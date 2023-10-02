@@ -40,7 +40,7 @@ PHASE I:  - 2 Weeks
 12. Async, promises, callback
 13. BOM
 14. Web APIs
--- GIT ---- LEARN ABOUT GIT
+*** GIT ---- LEARN ABOUT GIT
 
 //  Practice projects --- 3
 
@@ -51,11 +51,10 @@ PHASE I:  - 2 Weeks
 18. JS Graphics
 19. Error handling
 20. Generator, advanced iterations
-//   Practice Project ---3
 21. Modules
 22. Code Quality 
 
-//  Advanced Practice Project --- 1
+//  Advanced Practice Project --- 3
 
 
 PHASE II:  - 4 weeks
@@ -66,7 +65,7 @@ PHASE II:  - 4 weeks
 
 // Practice Projects --- 2
 
-PHASE III: - 1 weeks
+PHASE III: - 1 week
 
 1. APIS -- GraphQL & RESTFUL
 //  practice projects --- 2
