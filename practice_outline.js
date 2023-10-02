@@ -43,6 +43,7 @@ PHASE I:
 
 //  Practice projects --- 3
 
+//  GIT ---- LEARN ABOUT GIT
 
 15. AJAX
 16. JSON
