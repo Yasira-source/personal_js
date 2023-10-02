@@ -24,7 +24,7 @@ COURSE OUTLINE --- KALIM
 /* 
 COURSE OUTLINE --- YASIRA
 
-PHASE I: 
+PHASE I:  - 2 Weeks
 
 1. Variables & Data Types
 2. Arrays
@@ -61,7 +61,7 @@ PHASE I:
 //  Advanced Practice Project --- 1
 
 
-PHASE II:
+PHASE II:  - 4 weeks
 1. JS Front -End Frameworks
 //  Practice Projects --- 2
 
@@ -69,7 +69,7 @@ PHASE II:
 
 // Practice Projects --- 2
 
-PHASE III:
+PHASE III: - 1 weeks
 
 1. APIS -- GraphQL & RESTFUL
 //  practice projects --- 2
@@ -77,7 +77,7 @@ PHASE III:
 2. Deployment - CI/CD 
 //  deploy the projects above
 
-PHASE IV:
+PHASE IV: - 1 Week
 1. Advanced Rehearsal of Data Structures & Algorithms 
 
 //  take a couple coding challenge questions
@@ -85,6 +85,8 @@ PHASE IV:
 PHASE V:
 1. Behavioural Interview Questions
 
+
+//  TOTAL TIME REQUIRED ---- 8 WEEKS (56 Days)
 ------ END ------
 
 */
