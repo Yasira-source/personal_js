@@ -40,10 +40,10 @@ PHASE I:
 12. Async, promises, callback
 13. BOM
 14. Web APIs
+-- GIT ---- LEARN ABOUT GIT
 
 //  Practice projects --- 3
 
-//  GIT ---- LEARN ABOUT GIT
 
 15. AJAX
 16. JSON
