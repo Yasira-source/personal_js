@@ -1,1 +1,54 @@
-<script type="text/javascript" src="array_iterate.js"></script>
+<script type="text/javascript" >
+
+
+// let name = "Ilya";
+
+// alert( `hello ${1}` ); // ?
+
+// alert( `hello ${"name"}` ); // ?
+
+ // ?
+
+//  function truncate(str, maxlength){
+// //   alert( str.length > maxlength ? str.slice(0,maxlength-1) + '...' : str)
+// // alert(str.split())
+
+// let normalStr = str.length > maxlength ?str.substring(0,maxlength-1): str;
+
+// alert(normalStr.concat('...'))
+// }
+
+
+
+// truncate("What I'd like to tell on this topic is:",20);
+
+
+
+// Given a string S , return the "reversed"  string where all characters that are not a letter stay in the same place , and all letters reverse their positions
+
+// Example 1:
+// input : ab-cd
+// output: dc-ba
+
+// input: a-bC-dEf=ghIj!!
+// output: j-Ih-gfE=dCba!! 
+
+function onlyLetterReverse(str){
+
+    let letters = [];
+    let non_letters = [];
+
+   letters=str.match(/[a-z]/gi) ;
+   non_letters=str.match(/[^a-zA-Z]/gi) ;
+
+letters = letters.reverse().join()
+
+
+
+    alert(non_letters)
+
+}
+onlyLetterReverse('a-bC-dEf=ghIj!!');
+
+
+</script>
