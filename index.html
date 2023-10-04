@@ -37,15 +37,18 @@ function onlyLetterReverse(str){
 
     let letters = [];
     let non_letters = [];
+    let non_letter_indices = [];
 
    letters=str.match(/[a-z]/gi) ;
    non_letters=str.match(/[^a-zA-Z]/gi) ;
 
 letters = letters.reverse().join()
 
+for(let n =0; n< str.length; n++){
+   non_letter_indices.push(str.search(non_letters[n]));
+}
 
-
-    alert(non_letters)
+    alert(non_letter_indices)
 
 }
 onlyLetterReverse('a-bC-dEf=ghIj!!');
