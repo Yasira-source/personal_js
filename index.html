@@ -24,34 +24,5 @@
 
 
 
-// Given a string S , return the "reversed"  string where all characters that are not a letter stay in the same place , and all letters reverse their positions
-
-// Example 1:
-// input : ab-cd
-// output: dc-ba
-
-// input: a-bC-dEf=ghIj!!
-// output: j-Ih-gfE=dCba!! 
-
-function onlyLetterReverse(str){
-
-    let letters = [];
-    let non_letters = [];
-    let non_letter_indices = [];
-
-   letters=str.match(/[a-z]/gi) ;
-   non_letters=str.match(/[^a-zA-Z]/gi) ;
-
-letters = letters.reverse().join()
-
-for(let n =0; n< str.length; n++){
-   non_letter_indices.push(str.search(non_letters[n]));
-}
-
-    alert(non_letter_indices)
-
-}
-onlyLetterReverse('a-bC-dEf=ghIj!!');
-
 
 </script>
