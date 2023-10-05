@@ -26,6 +26,7 @@ function reverseLetters(str) {
       while (start < end && !isLetter(characters[end])) {
         end--;
       }
+
   
       // Swap the letters
       if (start < end) {
